@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from scipy import stats
 
-# Dados fictícios de clientes e suas preferências de hospedagem
+# Dados de clientes e suas preferências de hospedagem
 data = {
     'cliente_id': range(1, 101),
     'idade': np.random.randint(18, 70, 100),
