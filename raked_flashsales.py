@@ -19,7 +19,7 @@ def cleanup():
 
 # Função para carregar e preprocessar os dados
 def load_data():
-    # Exemplo de dados fictícios
+    # Exemplo de dados 
     data = {
         'horario': ['6-8', '8-10', '10-12', '12-14', '14-16', '16-18', '18-20', '20-22', '22-6'],
         'produto': ['Roupas', 'Ferramentas', 'Produtos de academia', 'Produtos de carro', 'Moveis'],
